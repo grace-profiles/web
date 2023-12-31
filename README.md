@@ -1,5 +1,5 @@
-# Grails Web Profile
+# Grace Web Profile
 
-[![Build Status](https://travis-ci.org/grails-profiles/web.svg?branch=master)](https://travis-ci.org/grails-profiles/web)
+[![Build Status](https://github.com/grace-profiles/web/workflows/Grace%20CI/badge.svg)](https://github.com/grace-profiles/web/actions)
 
-A profile for creating standard Grails applications
+A profile for creating standard Grace applications
