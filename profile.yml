@@ -10,9 +10,9 @@ features:
 build:
     plugins:
         - war
-        - org.graceframeework.grace-web
+        - org.graceframework.grace-web
     excludes:
-        - org.graceframeework.grace-core
+        - org.graceframework.grace-core
 dependencies:
     - scope: compile
       coords: "org.springframework.boot:spring-boot-starter-actuator"
@@ -43,7 +43,7 @@ dependencies:
     - scope: compile
       coords: "org.graceframework:grace-plugin-url-mappings"
     - scope: compile
-      coords: "org.graceframework.plugins:cache"
+      coords: "org.grails.plugins:cache"
     - scope: compile
       coords: "org.graceframework.plugins:async"
     - scope: compile
