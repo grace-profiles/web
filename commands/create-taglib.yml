@@ -11,7 +11,7 @@ steps:
  - command: render
    template: templates/artifacts/TagLib.groovy
    convention: TagLib
-   destination: grails-app/taglib/@artifact.package.path@/@artifact.name@TagLib.groovy
+   destination: app/taglib/@artifact.package.path@/@artifact.name@TagLib.groovy
  - command: render
    template: templates/testing/TagLib.groovy
    convention: TagLib
