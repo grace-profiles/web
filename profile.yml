@@ -1,12 +1,18 @@
 description: Profile for Web applications
+skeleton:
+    executable: ["**/gradlew*", "**/grailsw*"]
+    binaryExtensions: ['png', 'gif', 'jpg', 'jpeg', 'ico', 'icns', 'pdf', 'zip', 'jar', 'class', 'woff', 'woff2']
 features:
-    defaults: 
-        - hibernate5   
-        - events     
+    defaults:
+        - hibernate5
+        - events
         - geb2
+        - bootstrap
     required:
         - gsp
         - asset-pipeline
+        - jquery
+        - fields
 build:
     plugins:
         - war
@@ -48,3 +54,5 @@ dependencies:
       coords: "org.graceframework.plugins:async"
     - scope: compile
       coords: "org.graceframework.plugins:scaffolding"
+    - scope: compile
+      coords: "org.graceframework.plugins:fields"
