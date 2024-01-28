@@ -6,7 +6,7 @@ features:
     defaults:
         - hibernate5
         - events
-        - geb2
+        - geb
         - bootstrap
     required:
         - gsp
