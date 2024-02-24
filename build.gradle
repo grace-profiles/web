@@ -96,7 +96,7 @@ publishing {
                 scm {
                     connection = 'scm:git:git://github.com/grace-profiles/web.git'
                     developerConnection = 'scm:git:ssh://github.com:grace-profiles/web.git'
-                    url = 'https://github.com/grace-profiles/web/tree/2022.0.x'
+                    url = 'https://github.com/grace-profiles/web/tree/2022.1.x'
                 }
             }
         }
