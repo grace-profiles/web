@@ -43,6 +43,8 @@ dependencies:
     - scope: compile
       coords: "org.graceframework:grace-plugin-interceptors"
     - scope: compile
+      coords: "org.graceframework:grace-plugin-management"
+    - scope: compile
       coords: "org.graceframework:grace-plugin-rest"
     - scope: compile
       coords: "org.graceframework:grace-plugin-services"
