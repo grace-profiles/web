@@ -4,7 +4,7 @@ skeleton:
     binaryExtensions: ['png', 'gif', 'jpg', 'jpeg', 'ico', 'icns', 'pdf', 'zip', 'jar', 'class', 'woff', 'woff2']
 features:
     defaults:
-        - hibernate5
+        - hibernate
         - database-migration
         - events
         - geb
