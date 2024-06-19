@@ -11,10 +11,6 @@
 
     <asset:stylesheet src="application.css"/>
 
-    <link id="bootswatch-style" rel="stylesheet" href=""/>
-
-    <g:set var="layoutName" value="main"/>
-
     <g:layoutHead/>
 </head>
 
