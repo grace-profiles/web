@@ -8,10 +8,10 @@ features:
         - database-migration
         - events
         - geb
-        - bootstrap
     required:
         - gsp
         - asset-pipeline
+        - bootstrap
         - jquery
         - scaffolding
         - fields
