@@ -13,6 +13,7 @@ features:
         - gsp
         - asset-pipeline
         - jquery
+        - scaffolding
         - fields
 build:
     plugins:
@@ -55,5 +56,3 @@ dependencies:
       coords: "org.graceframework.plugins:cache"
     - scope: compile
       coords: "org.graceframework.plugins:async"
-    - scope: compile
-      coords: "org.graceframework.plugins:scaffolding"
