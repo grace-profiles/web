@@ -201,6 +201,10 @@ a.navbar-brand {
     border-radius: 0.3em;
 }
 
+.navbar .navbar-nav .nav-link:focus-visible {
+    box-shadow: none;
+}
+
 .navbar li.dropdown-item a {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
