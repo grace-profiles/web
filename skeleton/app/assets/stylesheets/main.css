@@ -55,7 +55,8 @@ img {
     padding-bottom: 5px;
     text-align: center;
     color: #222;
-    font-size: 15px;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 .centered {
@@ -81,6 +82,8 @@ img {
 #controllers ul {
     padding-left: 20px;
     margin: 10px 0;
+    font-size: 15px;
+    font-weight: 500;
 }
 
 .footer img {
