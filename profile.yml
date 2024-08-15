@@ -57,5 +57,3 @@ dependencies:
       coords: "org.graceframework.plugins:async"
     - scope: compile
       coords: "org.graceframework.plugins:scaffolding"
-    - scope: compile
-      coords: "org.graceframework.plugins:fields"
