@@ -5,6 +5,7 @@ skeleton:
 features:
     defaults:
         - hibernate5
+        - database-migration
         - events
         - geb
         - bootstrap
