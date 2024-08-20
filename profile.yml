@@ -53,6 +53,6 @@ dependencies:
     - scope: compile
       coords: "org.graceframework:grace-plugin-url-mappings"
     - scope: compile
-      coords: "org.graceframework.plugins:cache"
-    - scope: compile
       coords: "org.graceframework.plugins:async"
+    - scope: compile
+      coords: "org.graceframework.plugins:cache"
