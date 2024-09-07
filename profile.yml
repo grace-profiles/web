@@ -9,12 +9,12 @@ features:
         - events
         - geb
     required:
-        - gsp
         - asset-pipeline
         - bootstrap
+        - fields
+        - gsp
         - jquery
         - scaffolding
-        - fields
 build:
     plugins:
         - war
@@ -31,9 +31,9 @@ dependencies:
     - scope: compile
       coords: "org.graceframework:grace-logging"
     - scope: compile
-      coords: "org.graceframework:grace-plugin-controllers"
-    - scope: compile
       coords: "org.graceframework:grace-plugin-codecs"
+    - scope: compile
+      coords: "org.graceframework:grace-plugin-controllers"
     - scope: compile
       coords: "org.graceframework:grace-plugin-databinding"
     - scope: compile
