@@ -4,15 +4,16 @@ skeleton:
     binaryExtensions: ['png', 'gif', 'jpg', 'jpeg', 'ico', 'icns', 'pdf', 'zip', 'jar', 'class', 'woff', 'woff2']
 features:
     defaults:
-        - hibernate
+        - asset-pipeline
+        - async
+        - bootstrap
+        - cache
         - database-migration
         - events
-        - geb
-    required:
-        - asset-pipeline
-        - bootstrap
         - fields
+        - geb
         - gsp
+        - hibernate
         - jquery
         - scaffolding
 build:
@@ -60,7 +61,3 @@ dependencies:
       coords: "org.graceframework:grace-plugin-services"
     - scope: compile
       coords: "org.graceframework:grace-plugin-url-mappings"
-    - scope: compile
-      coords: "org.graceframework.plugins:async"
-    - scope: compile
-      coords: "org.graceframework.plugins:cache"
