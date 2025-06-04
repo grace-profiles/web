@@ -1,6 +1,6 @@
 description:
     - Creates a Tag Library
-    - usage: 'create-taglib [taglib name]'
+    - usage: 'grace create-taglib [Tag Library Name]'
     - synonyms: 'create-tag-lib'
     - completer: org.grails.cli.interactive.completers.DomainClassCompleter
     - argument: Tag Library Name
