@@ -1,0 +1,5 @@
+== jquery
+
+=== Description
+
+Adds jQuery javascript files.

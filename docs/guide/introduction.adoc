@@ -1,0 +1,3 @@
+Grace Profiles encapsulate project commands, templates, and plugins.
+
+`web` is a profile for creating standard Grace applications.

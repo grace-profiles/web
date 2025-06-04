@@ -1,0 +1,5 @@
+== scaffolding
+
+=== Description
+
+Add Scaffolding support.
