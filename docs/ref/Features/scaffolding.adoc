@@ -3,3 +3,7 @@
 === Description
 
 Add Scaffolding support.
+
+=== Resources
+
+* https://graceframework.org/grace-scaffolding/6.3.x/[Grace Scaffolding]

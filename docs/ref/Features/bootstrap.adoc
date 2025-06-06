@@ -3,3 +3,7 @@
 === Description
 
 Adds Bootstrap CSS to the project.
+
+=== Resources
+
+* https://getbootstrap.com/docs/5.3/getting-started/introduction/[Bootstrap]

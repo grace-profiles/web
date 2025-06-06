@@ -3,3 +3,7 @@
 === Description
 
 Adds Popper javascript files.
+
+=== Resources
+
+* https://popper.js.org/docs/v2/[Popper]

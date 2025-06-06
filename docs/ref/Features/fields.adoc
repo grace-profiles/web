@@ -3,3 +3,7 @@
 === Description
 
 Add custom Fields templates support Bootstrap.
+
+=== Resources
+
+* https://graceframework.org/grace-fields/6.3.x/[Grace Fields]
