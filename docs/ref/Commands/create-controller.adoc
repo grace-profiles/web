@@ -36,3 +36,12 @@ Creates a Controller.
 ----
 $ grace create-controller [Controller Name]
 ----
+
+=== Examples
+
+[source,bash]
+----
+$ grace create-controller Post
+| Created app/controllers/grace/demos/PostController.groovy
+| Created src/test/groovy/grace/demos/PostControllerSpec.groovy
+----

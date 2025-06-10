@@ -36,3 +36,12 @@ Creates a Tag Library.
 ----
 $ grace create-taglib [Tag Library Name]
 ----
+
+=== Examples
+
+[source,bash]
+----
+$ grace create-taglib Post
+| Created app/taglib/grace/demos/PostTagLib.groovy
+| Created src/test/groovy/grace/demos/PostTagLibSpec.groovy
+----
