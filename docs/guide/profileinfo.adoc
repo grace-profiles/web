@@ -65,7 +65,7 @@ scaffolding                                +       Add Scaffolding support
 The above list includes all the commands and features from it's parent profile.
 
 But if you want only show it's own commands and features, you can execute `grace profile-info web --only`. 
-You will see thant `web` profile provides some more commands and features below:
+You will see that `web` profile extends `base` profile, and it provides some more commands and features below:
 
 [source, bash]
 ----
