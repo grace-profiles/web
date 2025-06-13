@@ -32,14 +32,14 @@ Creates a Tag Library.
 
 === Usage
 
-[source,bash]
+[source,console]
 ----
 $ grace create-taglib [Tag Library Name]
 ----
 
 === Examples
 
-[source,bash]
+[source,console]
 ----
 $ grace create-taglib Post
 | Created app/taglib/grace/demos/PostTagLib.groovy

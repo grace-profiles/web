@@ -32,14 +32,14 @@ Creates an Interceptor.
 
 === Usage
 
-[source,bash]
+[source,console]
 ----
 $ grace create-interceptor [Interceptor Name]
 ----
 
 === Examples
 
-[source,bash]
+[source,console]
 ----
 $ grace create-controller Post
 | Created app/controllers/grace/demos/PostInterceptor.groovy
