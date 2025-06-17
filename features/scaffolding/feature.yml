@@ -1,4 +1,4 @@
-description: Add Scaffolding support
+description: Add support for the Grace Scaffolding
 dependencies:
     - scope: compile
       coords: "org.graceframework.plugins:scaffolding"

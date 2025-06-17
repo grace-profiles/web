@@ -1,4 +1,4 @@
-description: Add custom Fields templates support Bootstrap
+description: Adds custom Fields templates support Bootstrap
 dependencies:
     - scope: compile
       coords: "org.graceframework.plugins:fields"
