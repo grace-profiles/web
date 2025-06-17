@@ -1,0 +1,352 @@
+=== 2023.3.0
+
+link:{github}/releases/tag/v2023.3.0[release notes]
+
+⭐️ New Features
+
+* Setup github docs workflows
+* Add documentation for `web` link:{github}/issues/43[#43]
+
+🛠 Improvements
+
+* Add release notes
+* Update ref for bootstrap feature
+* Update main layout
+* feature: Upgrade to Bootstrap CSS 5.3.7 and Icons 1.13.1 link:{github}/issues/45[#45]
+* Update documentation - Update profile info
+* Update the description of Features
+* Remove deprecated gradle/actions/wrapper-validation
+* Update documentation - Update profile info
+* Update README
+* Update documentation
+* Update documentation - Update profile info
+* Add LICENSE
+* Update README - Add document links
+* Update documentation - Update guide - Update ref/Commands
+* Docs: Add resources links for Features
+* Update github workflows - Upgrade to setup-gradle@v4
+* Update the description of Commands link:{github}/issues/44[#44]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.3.0-RC2 link:{github}/issues/42[#42]
+* Upgrade to Grace 2023.3.0-RC1 link:{github}/issues/39[#39]
+* Upgrade to Grace Profile: Base 2023.3.0 link:{github}/issues/40[#40]
+* Upgrade to Gradle 8.14 link:{github}/issues/41[#41]
+
+=== 2023.3.0-RC1
+
+link:{github}/releases/tag/v2023.3.0-RC1[release notes]
+
+🛠 Improvements
+
+* Update README
+* feature: Upgrade bootstrap to 5.3.5 link:{github}/issues/38[#38]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.3.0-M2 link:{github}/issues/35[#35]
+* Upgrade to Grace Profile: Base 2023.3.0-RC1 link:{github}/issues/36[#36]
+* Upgrade to Gradle 8.13 link:{github}/issues/37[#37]
+
+⚙️ Tasks
+
+* Release v2023.3.0-RC1
+
+=== 2023.3.0-M2
+
+link:{github}/releases/tag/v2023.3.0-M2[release notes]
+
+🛠 Improvements
+
+* Update README Update badge versions of Grace
+* Remove unused groovyVersion in gradle.properties link:{github}/issues/34[#34]
+* Remove 'src/main/webapp' in skeleton link:{github}/issues/33[#33]
+* Remove .gitignore .gitattributes in skeleton link:{github}/issues/32[#32]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.3.0-M1 link:{github}/issues/30[#30]
+* Upgrade to Grace Profile: Base 2023.3.0-M2 link:{github}/issues/31[#31]
+
+⚙️ Tasks
+
+* Release v2023.3.0-M2
+
+=== 2023.3.0-M1
+
+link:{github}/releases/tag/v2023.3.0-M1[release notes]
+
+🛠 Improvements
+
+* Update README Update supported versions
+* Update github workflows Switch to 2023.3.x branch
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.2.0 link:{github}/issues/28[#28]
+* Upgrade to Grace Profile: Base 2023.3.0-M1 link:{github}/issues/29[#29]
+
+⚙️ Tasks
+
+* Release v2023.3.0-M1
+* Next development version: 2023.3.0-SNAPSHOT
+
+=== 2023.2.0
+
+link:{github}/releases/tag/v2023.2.0[release notes]
+
+🛠 Improvements
+
+* Update README
+* Update build scripts to avoid deprecation warnings with Gradle 8 link:{github}/issues/27[#27]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.2.0-RC1 link:{github}/issues/25[#25]
+* Upgrade to Grace Profile: Base 2023.2.0 link:{github}/issues/26[#26]
+
+⚙️ Tasks
+
+* Release v2023.2.0
+
+=== 2023.2.0-RC1
+
+link:{github}/releases/tag/v2023.2.0-RC1[release notes]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.2.0-M3 link:{github}/issues/22[#22]
+* Upgrade to Grace Profile: Base 2023.2.0-RC1 link:{github}/issues/24[#24]
+* Upgrade to Gradle 8.12 link:{github}/issues/23[#23]
+
+⚙️ Tasks
+
+* Release v2023.2.0-RC1
+
+=== 2023.2.0-M2
+
+link:{github}/releases/tag/v2023.2.0-M2[release notes]
+
+🛠 Improvements
+
+* Skeleton: remove unused `app/utils` link:{github}/issues/20[#20]
+* Update README Update badge of Grace to current version
+* Add `grace-console` dependency to `web` profile link:{github}/issues/19[#19]
+* Make all the features be optional link:{github}/issues/18[#18]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.2.0-M1 link:{github}/issues/17[#17]
+* Upgrade to Grace Profile: Base 2023.2.0-M2 link:{github}/issues/21[#21]
+
+⚙️ Tasks
+
+* Release v2023.2.0-M2
+
+=== 2023.2.0-M1
+
+link:{github}/releases/tag/v2023.2.0-M1[release notes]
+
+🛠 Improvements
+
+* Skeleton: replace all tokens `@grails.*@` to `@grace.*` link:{github}/issues/15[#15]
+* Update github workflows
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace Profile: Base 2023.2.0-M1 link:{github}/issues/16[#16]
+* Upgrade to Grace 2023.1.0 link:{github}/issues/14[#14]
+
+⚙️ Tasks
+
+* Release v2023.2.0-M1
+* Next development version: 2023.2.0-SNAPSHOT
+
+=== 2023.1.0
+
+link:{github}/releases/tag/v2023.1.0[release notes]
+
+🛠 Improvements
+
+* Update Badges
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.1.0-RC1 link:{github}/issues/11[#11]
+* Upgrade to Grace Profile: Base 2023.1.0 link:{github}/issues/13[#13]
+* Upgrade to Groovy 4.0.24 link:{github}/issues/12[#12]
+
+⚙️ Tasks
+
+* Release v2023.1.0
+
+=== 2023.1.0-RC1
+
+link:{github}/releases/tag/v2023.1.0-RC1[release notes]
+
+🛠 Improvements
+
+* Use `gradlePluginPortal()` link:{github}/issues/9[#9]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.1.0-M3 link:{github}/issues/7[#7]
+* Upgrade to Grace Profile: Base 2023.1.0-RC1 link:{github}/issues/10[#10]
+* Upgrade to Gradle Nexus Publish Plugin 2.0.0 link:{github}/issues/8[#8]
+
+⚙️ Tasks
+
+* Release v2023.1.0-RC1
+
+=== 2023.1.0-M3
+
+link:{github}/releases/tag/v2023.1.0-M3[release notes]
+
+🛠 Improvements
+
+* Remove unnecessary `skeleton/app/conf/application.yml` link:{github}/issues/5[#5]
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.1.0-M2 link:{github}/issues/4[#4]
+* Upgrade to Grace Profile: Base 2023.1.0-M3 link:{github}/issues/6[#6]
+
+⚙️ Tasks
+
+* Release v2023.1.0-M3
+
+=== 2023.1.0-M2
+
+link:{github}/releases/tag/v2023.1.0-M2[release notes]
+
+🛠 Improvements
+
+* Using `spring-boot-starter-web` instead of `spring-boot-starter-tomcat` link:{github}/issues/2[#2]
+* Update README
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2023.1.0-M1 link:{github}/issues/1[#1]
+* Upgrade to Grace Profile: Base 2023.1.0-M2 link:{github}/issues/3[#3]
+
+⚙️ Tasks
+
+* Release v2023.1.0-M2
+
+=== 2023.1.0-M1
+
+link:{github}/releases/tag/v2023.1.0-M1[release notes]
+
+🛠 Improvements
+
+* Update profile.yml
+* Explicit add dependecy `converters`
+* Update README
+* Update README
+
+🚀 Dependency Upgrades
+
+* Upgrade to Base profile 2023.1.0-M1
+* Upgrade to Grace 2023.0.2
+* Upgrade to Grace 2023.0.1
+* Upgrade to Groovy 4.0.23
+
+⚙️ Tasks
+
+* Release v2023.1.0-M1
+* Update github workflows
+* Update github workflows
+* Next development version: 2023.1.0-SNAPSHOT
+
+=== 2023.0.1
+
+link:{github}/releases/tag/v2023.0.1[release notes]
+
+* Release v2023.0.1
+* Upgrade to Base profile 2023.0.1
+* Rearrange dependencies
+* Upgrade to Grace 2023.0.0
+* Next development version: 2023.0.1-SNAPSHOT
+
+=== 2023.0.0
+
+link:{github}/releases/tag/v2023.0.0[release notes]
+
+* Release v2023.0.0
+* Upgrade to Base profile 2023.0.0
+* Rearrange dependencies
+* Update skeleton: update `main.css`
+* Remove `grails.controllers.defaultScope` settings
+* Update description of commands
+* Upgrade to Grace 2023.0.0-RC2
+
+=== 2023.0.0-RC2
+
+link:{github}/releases/tag/v2023.0.0-RC2[release notes]
+
+* Release v2023.0.0-RC2
+* Upgrade to Base profile 2023.0.0-RC2
+* Upgrade to Groovy 4.0.22
+* Upgrade to Grace 2023.0.0-RC1
+
+=== 2023.0.0-RC1
+
+link:{github}/releases/tag/v2023.0.0-RC1[release notes]
+
+* Release v2023.0.0-RC1
+* Remove feature: `bootstrap-sass`
+* Upgrade to Base profile 2023.0.0-RC1
+* Update `main.css` in skeleton
+* Update feature `popper` to 2.11.8
+* Update feature `jquery` to 3.7.1
+* Update feature `bootstrap` to 5.3.3 and `bootstrap-icons` to 1.11.3
+* Update skeleton
+* Make `bootstrap` feature required
+* Add feature: `scaffolding`
+* Update feature `fields`
+* Upgrade to Groovy 4.0.21
+* Upgrade to Grace 2023.0.0-M7
+
+=== 2023.0.0-M4
+
+link:{github}/releases/tag/v2023.0.0-M4[release notes]
+
+* Release v2023.0.0-M4
+* Update profile.yml
+* Add artifact profile.yml
+* Upgrade to Base profile 2023.0.0-M5
+* Upgrade to Groovy 4.0.12
+* Upgrade to Grace 2023.0.0-M6
+
+=== 2023.0.0-M3
+
+link:{github}/releases/tag/v2023.0.0-M3[release notes]
+
+* Release v2023.0.0-M3
+* Use Java version 17
+* Upgrade to Base profile 2023.0.0-M4
+* Upgrade to Grace 2023.0.0-M5
+* Make `database-migration` as default feature
+
+=== 2023.0.0-M2
+
+link:{github}/releases/tag/v2023.0.0-M2[release notes]
+
+* Release v2023.0.0-M2
+* Upgrade to Gradle Wrapper 7.6.4
+* Upgrade to Base profile 2023.0.0-M3
+* Upgrade to Grace 2023.0.0-M4
+
+=== 2023.0.0-M1
+
+link:{github}/releases/tag/v2023.0.0-M1[release notes]
+
+* Release v2023.0.0-M1
+* Upgrade to Gradle Wrapper 7.6.1
+* Update skeleton
+* Upgrade to Base profile 2023.0.0-M2
+* Upgrade to Groovy 4.0.10
+* Upgrade to Grace 2023.0.0-M2
+* Update github workflows
+* Next development version: 2023.0.0-SNAPSHOT
