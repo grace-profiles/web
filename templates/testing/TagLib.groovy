@@ -1,6 +1,7 @@
 @artifact.package@
-import grails.testing.web.taglib.TagLibUnitTest
 import spock.lang.Specification
+
+import grails.testing.web.taglib.TagLibUnitTest
 
 class @artifact.name@TagLibSpec extends Specification implements TagLibUnitTest<@artifact.name@TagLib> {
 

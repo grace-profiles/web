@@ -1,6 +1,7 @@
 @artifact.package@
-import grails.testing.services.ServiceUnitTest
 import spock.lang.Specification
+
+import grails.testing.services.ServiceUnitTest
 
 class @artifact.name@ServiceSpec extends Specification implements ServiceUnitTest<@artifact.name@Service>{
 

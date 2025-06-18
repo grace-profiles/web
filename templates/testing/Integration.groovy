@@ -1,7 +1,8 @@
 @artifact.package@
+import spock.lang.Specification
+
 import grails.gorm.transactions.Rollback
 import grails.testing.mixin.integration.Integration
-import spock.lang.Specification
 
 @Integration
 @Rollback
