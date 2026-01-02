@@ -1,0 +1,43 @@
+=== 2024.0.0-M1
+
+link:{github}/releases/tag/v2024.0.0-M1[release notes]
+
+⭐️ New Features
+
+* Update profile: migrate to the new dependencies and plugin id link:{github}/issues/56[#56]
+
+🛠 Improvements
+
+* Add release notes for 2024.0.0-M1
+* Update guides for profile info and upgrade
+* Update doc.properties and switch to 2024.0.x branch
+* feature: Upgrade to Bootstrap 5.3.8 link:{github}/issues/54[#54]
+* Use version attribute in source code
+* Feature: change the coords of scaffolding plugin link:{github}/issues/53[#53]
+
+* Feature: change the coords of fields plugin link:{github}/issues/52[#52]
+
+* Make feature `geb` optional link:{github}/issues/51[#51]
+* Update README
+  - Update document links
+  - Update badge version of Grace
+  - Update supported versions
+
+* Update README - Update badge version of Grace, Groovy
+* Migrate to Central Portal OSSRH Staging API link:{github}/issues/47[#47]
+
+🐞 Bug Fixes
+
+* Update `error.gsp` to use `jakarta.servlet.error.exception`
+
+🚀 Dependency Upgrades
+
+* Upgrade to Grace 2024.0.0-M1 link:{github}/issues/49[#49]
+* Upgrade to Grace Profile: Base 2024.0.0-M1 link:{github}/issues/55[#55]
+* Upgrade to Gradle 8.14.3 link:{github}/issues/50[#50]
+
+⚙️ Tasks
+
+* Release v2024.0.0-M1
+* Update GitHub workflows - Switch to 2024.0.x
+* Next development version: 2024.0.0-SNAPSHOT
