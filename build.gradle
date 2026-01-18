@@ -75,8 +75,12 @@ jar {
         "Implementation-Vendor": 'graceframework.org')
 }
 
-docs {
+publishGuide {
     sourceDir = project.file('docs')
+}
+
+tasks.register('docs') {
+    dependsOn publishGuide
 }
 
 publishing {
