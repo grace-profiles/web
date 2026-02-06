@@ -42,6 +42,6 @@ $ grace create-taglib [Tag Library Name]
 [source,console]
 ----
 $ grace create-taglib Post
-| Created app/taglib/grace/demos/PostTagLib.groovy
+| Created app/taglibs/grace/demos/PostTagLib.groovy
 | Created src/test/groovy/grace/demos/PostTagLibSpec.groovy
 ----
