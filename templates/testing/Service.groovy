@@ -3,7 +3,7 @@ import spock.lang.Specification
 
 import grails.testing.services.ServiceUnitTest
 
-class @artifact.name@ServiceSpec extends Specification implements ServiceUnitTest<@artifact.name@Service>{
+class @artifact.name@ServiceSpec extends Specification implements ServiceUnitTest<@artifact.name@Service> {
 
     def setup() {
     }
@@ -11,9 +11,9 @@ class @artifact.name@ServiceSpec extends Specification implements ServiceUnitTes
     def cleanup() {
     }
 
-    void 'test something'() {
+    void 'test create@artifact.name@'() {
         expect: 'fix me'
-            true == false
+        true == false
     }
 
 }

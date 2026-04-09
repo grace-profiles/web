@@ -1,5 +1,4 @@
 @artifact.package@
-
 class @artifact.name@Interceptor {
 
     boolean before() {
@@ -11,7 +10,6 @@ class @artifact.name@Interceptor {
     }
 
     void afterView() {
-        // no-op
     }
 
 }

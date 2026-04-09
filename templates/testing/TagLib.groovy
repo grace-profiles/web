@@ -11,9 +11,9 @@ class @artifact.name@TagLibSpec extends Specification implements TagLibUnitTest<
     def cleanup() {
     }
 
-    void 'test something'() {
+    void 'test tag'() {
         expect: 'fix me'
-            true == false
+        true == false
     }
 
 }
