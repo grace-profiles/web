@@ -1,7 +1,7 @@
 description: Profile for Web applications
 skeleton:
     executable: ["**/gradlew*", "**/grailsw*"]
-    binaryExtensions: ['png', 'gif', 'jpg', 'jpeg', 'ico', 'icns', 'pdf', 'zip', 'jar', 'class', 'woff', 'woff2']
+    binaryExtensions: ["png", "gif", "jpg", "jpeg", "ico", "icns", "pdf", "zip", "jar", "class", "woff", "woff2"]
 features:
     defaults:
         - asset-pipeline
